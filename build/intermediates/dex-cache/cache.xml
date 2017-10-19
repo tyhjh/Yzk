@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Tyhj/.android/build-cache/ec810758080e58bc16646f8ef789387c46eea184/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_971d4547db120b33beb195abb3c8691788cdfce9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c8c8684b40a3e95344e632e390da911dd2f21aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tyhj/.android/build-cache/ec810758080e58bc16646f8ef789387c46eea184/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_dcf63ed6e276ea425036bc971c752a30ecc177cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ebd2910f30b95b5369e64b57ad5ae7da4564af0">
+        <dex dex="/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f79dcb7dfc15b1f08725a55e32a593197a53aeb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tyhj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_5a5d00dee3f9abbcec2ce20b725a6c43383a53ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Tyhj/.android/build-cache/a6e7619ccf681fe8c8a535c08ed934611c418fbd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_623356731cac67b1654dd0b5e9197cd8c634ce3c/classes.dex" />
+    </item>
+
+</items>

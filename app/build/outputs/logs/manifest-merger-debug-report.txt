@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/Tyhj/.android/build-cache/a6e7619ccf681fe8c8a535c08ed934611c418fbd/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/Tyhj/.android/build-cache/ec810758080e58bc16646f8ef789387c46eea184/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:11:5-38:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/Tyhj/.android/build-cache/a6e7619ccf681fe8c8a535c08ed934611c418fbd/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/Tyhj/.android/build-cache/ec810758080e58bc16646f8ef789387c46eea184/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:13:9-38
+	android:theme
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.yzk.MainActivity
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:screenOrientation
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:19:13-50
+	android:label
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:20:13-45
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:18:13-44
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.yzk.M2
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:26:9-27:63
+	android:screenOrientation
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:27:14-51
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:26:19-37
+activity#com.example.yzk.M3
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:28:9-29:63
+	android:screenOrientation
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:29:14-51
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:28:19-37
+activity#com.example.yzk.M4
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:30:10-31:63
+	android:screenOrientation
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:31:14-51
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:30:20-38
+activity#com.example.yzk.M5
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:32:9-33:63
+	android:screenOrientation
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:33:14-51
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:32:19-37
+activity#com.example.yzk.M6
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:34:10-35:63
+	android:screenOrientation
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:35:14-51
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:34:20-38
+activity#com.example.yzk.M7
+ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:36:12-37:63
+	android:screenOrientation
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:37:14-51
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Yzk/app/src/main/AndroidManifest.xml:36:22-40

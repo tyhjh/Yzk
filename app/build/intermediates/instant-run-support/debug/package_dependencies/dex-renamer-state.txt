@@ -1,0 +1,13 @@
+#Sun May 21 22:01:13 CST 2017
+renamed.3=classes.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes4.dex
+base.3=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_623356731cac67b1654dd0b5e9197cd8c634ce3c
+base.2=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_971d4547db120b33beb195abb3c8691788cdfce9
+base.1=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_dcf63ed6e276ea425036bc971c752a30ecc177cd
+base.0=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_5a5d00dee3f9abbcec2ce20b725a6c43383a53ee
+file.3=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_623356731cac67b1654dd0b5e9197cd8c634ce3c/classes.dex
+file.2=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_971d4547db120b33beb195abb3c8691788cdfce9/classes.dex
+file.1=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_dcf63ed6e276ea425036bc971c752a30ecc177cd/classes.dex
+file.0=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_5a5d00dee3f9abbcec2ce20b725a6c43383a53ee/classes.dex

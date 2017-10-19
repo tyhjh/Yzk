@@ -1,0 +1,4 @@
+#Sun May 21 22:01:13 CST 2017
+base.0=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

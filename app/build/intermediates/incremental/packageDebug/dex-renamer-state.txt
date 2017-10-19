@@ -1,0 +1,7 @@
+#Sun May 21 22:01:15 CST 2017
+base.0=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f79dcb7dfc15b1f08725a55e32a593197a53aeb8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c8c8684b40a3e95344e632e390da911dd2f21aa/classes.dex
+base.1=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4c8c8684b40a3e95344e632e390da911dd2f21aa
+file.0=/Users/Tyhj/AndroidStudioProjects/Yzk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f79dcb7dfc15b1f08725a55e32a593197a53aeb8/classes.dex
